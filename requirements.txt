@@ -1,0 +1,16 @@
+pandas
+openpyxl
+scipy
+scikit-learn
+transformers 
+jupyter
+torch
+matplotlib
+seaborn
+xgboost
+scipy
+
+#tensorflow
+#Python==3.13.2
+#python -m ipykernel install --user --name=myenv --display-name "Python (myenv)"
+#torch
