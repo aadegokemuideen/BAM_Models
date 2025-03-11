@@ -1,9 +1,7 @@
-.docx
-.\Task2\Video_A_explain.txt
-.\Task2\audience_retention_analysis.txt
-.\Task2\audience_rentention_pred.csv
-myenv/
-myenv\*
+"" 
+ML Task/
 python-3.13.2-amd64.exe
+myenv_bam/
+Task2/llm_approach.ipynb
+Task2/Video_A_explain.txt
 OneDrive_2025-03-04.zip
-.\Task2\llm_approach.ipynb
